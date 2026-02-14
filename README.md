@@ -1,6 +1,6 @@
 # JOGO MARIO JUMP
 
-![Tela Inicial](assets/MarioJump.png)
+<img src="assets/MarioJump.png" width="600"/>
 
 ## Como jogar?
 O jogo inicia automaticamente ao abrir o site
