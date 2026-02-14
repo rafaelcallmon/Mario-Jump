@@ -1,1 +1,1 @@
-![Tela Inicial](assets/MarioJump)
+![Tela Inicial](assets/MarioJump.png)
